@@ -1,5 +1,5 @@
 // Binary clock code with 2.8" TFT capacitive touch display     
-// Ardino shield from Adafruit.
+// Ardino shield from Adafruit.  
 //
 // Version history
 // 2014-11-22 V1.0 Written
